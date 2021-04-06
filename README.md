@@ -48,7 +48,7 @@ $ git branch -u origin/main main
 
 ## Compiling
 * CMake: [CMakeLists.txt](CMakeLists.txt) is provided
-* Library dependencies: Armadillo 
+* Library dependencies: Armadillo 9.9+ 
 * CMake minimum version: 3.10
 
 <!-- ## Execution (and input files and folder needed) -->

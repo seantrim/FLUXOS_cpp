@@ -1,8 +1,10 @@
 Results/
 CMakefiles/
+CMakeFiles/
 .gitignore
 .vscode
 CMakeCache
+CMakeCache.txt
 Makefile
 Tests/
 cmake_install.cmake
